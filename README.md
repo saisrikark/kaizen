@@ -1,5 +1,5 @@
 # kaizen
 Projects I work on to continuously learn
 
-- [interview-practice](https://github.com/saisrikark/interview-practice)
+- [practice](https://github.com/saisrikark/practice)
 - [calculators](https://github.com/saisrikark/calculators)
